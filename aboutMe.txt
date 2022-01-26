@@ -3,3 +3,4 @@ Junior
 Computer Science and Engineering Major
 Hometown: Tacoma, WA
 Hobbies: Soccer, bowling, guitar, working out
+Current courses: COEN174, COEN161, RSOC81
